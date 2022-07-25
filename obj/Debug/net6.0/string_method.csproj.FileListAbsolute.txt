@@ -1,0 +1,15 @@
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\string_method\bin\Debug\net6.0\string_method.exe
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\string_method\bin\Debug\net6.0\string_method.deps.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\string_method\bin\Debug\net6.0\string_method.runtimeconfig.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\string_method\bin\Debug\net6.0\string_method.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\string_method\bin\Debug\net6.0\string_method.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\string_method\obj\Debug\net6.0\string_method.csproj.AssemblyReference.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\string_method\obj\Debug\net6.0\string_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\string_method\obj\Debug\net6.0\string_method.AssemblyInfoInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\string_method\obj\Debug\net6.0\string_method.AssemblyInfo.cs
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\string_method\obj\Debug\net6.0\string_method.csproj.CoreCompileInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\string_method\obj\Debug\net6.0\string_method.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\string_method\obj\Debug\net6.0\refint\string_method.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\string_method\obj\Debug\net6.0\string_method.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\string_method\obj\Debug\net6.0\string_method.genruntimeconfig.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\string_method\obj\Debug\net6.0\ref\string_method.dll
